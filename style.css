@@ -94,7 +94,7 @@ body {
     width: 495px;
 }
 
-.contacts {
+.contact {
     display: flex;
     justify-content: space-around;
 }
